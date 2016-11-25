@@ -7,3 +7,4 @@ This directory contains research on hosting options and architectures under cons
 * [9 Lessons Learned Scaling Hotjar's Tech Architecture To Handle 21,875,000 Requests Per Hour](https://www.hotjar.com/blog/9-lessons-we-learned-while-scaling-hotjars-tech-architecture)
 * [You Want to Build an Empire Like Google’s? This Is Your OS](https://www.wired.com/2016/04/want-build-empire-like-googles-os/)
 * [CoreOS — Platform Introduction and Components](https://futurestud.io/tutorials/coreos-platform-introduction-and-components)
+* [The Short List of Docker Hosting](https://blog.codeship.com/the-shortlist-of-docker-hosting/)
