@@ -10,3 +10,4 @@ The following assumptions are driving the team's research.
 # Links to Libraries/Packages
 * [WebPack](http://webpack.github.io/docs/tutorials/getting-started/)
 * [Moment.js](http://momentjs.com/) - may be useful in implementing the timeline service
+* [Clippy.js](https://www.smore.com/clippy-js) - just in case we want to be able to ask the user, "It looks like you are writing a Bill of Materials..."
