@@ -1,4 +1,4 @@
-# ODE Mk 2 User Stories
+# Legacy ODE Sliderule User Stories
 ## Format
 Each user story should entered as a top level entry in the User Story List below.  It should begin with a user story number in the form of YYYY-XXX where YYYY is the full year and XXX is a zero padded numerical ID (incremented and reset with each year).  The user story statement is separated from its id by a colon and a space (: ).  
 

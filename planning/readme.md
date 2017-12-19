@@ -1,2 +1,2 @@
-# ODE Mk 2 Planning
-This folder contains the planning resources for the ODE mk 2 software project.  Contents include the Product Backkog, sub-folders for sprints (to include planning, meeting minutes, reviews, and retrospectives), and any other planning material required by the development team.
+# Sliderule Planning
+This folder contains the planning resources for Sliderule.  Contents include the Product Backkog, sub-folders for sprints (to include planning, meeting minutes, reviews, and retrospectives), and any other planning material required by the development team.  Work will be divided by year and then by materials related to developing the user stories and then a folder for each sprint.
