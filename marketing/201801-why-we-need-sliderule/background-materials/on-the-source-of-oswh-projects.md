@@ -30,15 +30,16 @@ It turns out this “happy coincidence” is essential for ensuring the assembly
 
 Let’s take things a step further, and look at making something out of two other things we have to make first (aka a project with sub-assemblies).  Let’s call them Thing1 and Thing2. Now we need the materials for the thing we are ultimately making (which includes Thing1 and Thing2), its assembly instructions, plus the materials and assembly instructions for Thing1 and Thing2.  If we look at all of these items in a list like the one at the beginning it would look something like this.
 
-1. Materials for our project
-  1. Thing1
-    1. Materials for Thing1
-    1. Assembly instructions for Thing1
-  1. Thing2
-    1. Materials for Thing2
-    1. Assembly instructions for Thing2
-  1. (Possibly other materials for our project we can just purchase)
-1. Assembly instructions for our project
+
+	1. Materials for our project
+		1. Thing1
+			1. Materials for Thing1
+			1. Assembly instructions for Thing1
+		1. Thing2
+			1. Materials for Thing2
+			1. Assembly instructions for Thing2
+		1. (Possibly other materials for our project we can just purchase)
+	1. Assembly instructions for our project
 
 Now imagine Thing1 had its own nested sub-assemblies.  Clearly we would get another level of hierarchy.  This pattern would continue to repeat recursively until all of the sub-assemblies had been documented and we are left with a tree structure where all of the leaf nodes only contain lists of materials which can be purchased instead of being made.
 
