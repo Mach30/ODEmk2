@@ -11,3 +11,5 @@ The following assumptions are driving the team's research.
 * [WebPack](http://webpack.github.io/docs/tutorials/getting-started/)
 * [Moment.js](http://momentjs.com/) - may be useful in implementing the timeline service
 * [Clippy.js](https://www.smore.com/clippy-js) - just in case we want to be able to ask the user, "It looks like you are writing a Bill of Materials..."
+* [Docusaurus](https://docusaurus.io/) - "Easy to Maintain Open Source Documentation Websites", uses markdown and a clean content structure
+* [REACT ROUTER](https://reacttraining.com/react-router/) - interesting routing system for React
