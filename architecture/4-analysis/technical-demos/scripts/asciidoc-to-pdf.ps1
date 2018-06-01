@@ -1,0 +1,1 @@
+docker run --rm -v "$($pwd -replace '\\','/'):/documents/" --name asciidoc-to-pdf asciidoctor/docker-asciidoctor asciidoctor-pdf -D /documents/ *.adoc
